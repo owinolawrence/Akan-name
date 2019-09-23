@@ -16,10 +16,10 @@ Open the projct with Visual Studio Code as text editor
 No bugs
 
 ## Technologies Used
-HTML CSS and JAVASCRIPT are the languages and tools used to create this website.
+HTML CSS and Javascript are the languages used to create this website.
 
 ## Support and contact details
-Incase of any questions or issues please feel free to conduct me through email(owinolawrence21@gmail.com) or phone number (+254713934431)
+Incase of any questions or issues please feel free to conduct me through email(owinolawrence21@gmail.com) 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
