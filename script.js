@@ -26,9 +26,9 @@
                         alert("invalid date");
                     }
     
-                    {
+                    
                         if (Math.round(result) == 1 && gender === 'male');
-                    }
+                    
                     {
                         document.getElementById("display").innerHTML = ("You were born on Monday ,your akan name is " + boyNames[1]);
                     }
@@ -57,10 +57,10 @@
                         document.getElementById("display").innerHTML = ("You were born on Tuesday,your akan name is " + girlNames[2]);
                     }
                     else if (Math.round(result) == 3 && gender === 'female') {
-                        document.getElementById("display").innerHTML = ("You were born on Wednesday,your akan name is " + girlNames[0]);
+                        document.getElementById("display").innerHTML = ("You were born on Wednesday,your akan name is " + girlNames[3]);
                     }
                     else if (Math.round(result) == 4 && gender === 'female') {
-                        document.getElementById("display").innerHTML = ("You were born on Thursday,your akan name is " + girlNames[0]);
+                        document.getElementById("display").innerHTML = ("You were born on Thursday,your akan name is " + girlNames[4]);
                     }
 
                     else if (Math.round(result) == 5 && gender === 'female') {
