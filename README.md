@@ -3,8 +3,8 @@
 #### Brief description of application
 Ghanian Culture name generator, 22/09/2019
 
-#### By **{Contributor}
-Owino Lawrence Odhiambo
+#### By **{Owino Lawrence Odhiambo
+}
 
 ## Installation
 Use the package manager [pip]( https://github.com/owinolawrence/Akan-name.git/) to install my-portfolio.
