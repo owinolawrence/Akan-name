@@ -6,8 +6,8 @@ Ghanian Culture name generator, 22/09/2019
 #### By **{Owino Lawrence Odhiambo
 }
 
-## Installation
-Use the package manager [pip]( https://github.com/owinolawrence/Akan-name.git/) to install my-portfolio.
+## Installationd
+clone and download https://github.com/owinolawrence/Akan-name.git/) to install my-portfolio.
 ```bash
 pip install Akan-name
 Open the projct with Visual Studio Code as text editor
